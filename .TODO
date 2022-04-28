@@ -1,6 +1,7 @@
 # TODO
 
-- [ ] Agregar configuracion para que se pueda instalar
+- [x] Agregar configuracion para que se pueda instalar
 - [ ] Agregar el github action para pypi
 - [ ] Generar la documentacion automatica
-- [ ] Logo 
+- [ ] Logo
+- [ ] Hacer Test

@@ -1,2 +1,10 @@
 __pycache__
 .directory
+.pytest_cache
+.vscode
+bin
+include
+lib**
+share
+pyvenv.cfg
+*.log
