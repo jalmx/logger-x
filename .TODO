@@ -5,3 +5,5 @@
 - [ ] Generar la documentacion automatica
 - [ ] Logo
 - [ ] Hacer Test
+- [ ] Crear tag `git tag v1.0.0 -m "First"`
+

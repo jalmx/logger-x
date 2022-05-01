@@ -1,11 +1,22 @@
-# Logger X
+# Logger Xizuth
 
 A logger for my apps
 
 ## Install
 
+### Repo
+
+```bash
+git clone https://github.com/jalmx/logger-x.git
+cd logger-x
+pip install .
+```
+
+### Pypi
+
 ```bash
 pip install loggerx -U
+
 ```
 
 ## Use

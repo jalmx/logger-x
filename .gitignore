@@ -7,4 +7,7 @@ include
 lib**
 share
 pyvenv.cfg
-*.log
+**.log
+**.egg-info
+build
+dist
